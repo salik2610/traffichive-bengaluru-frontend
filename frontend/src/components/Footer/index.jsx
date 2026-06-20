@@ -23,13 +23,13 @@ const Footer = () => {
           <div className="links-group">
             <h4>Contact</h4>
             <a href="mailto:contact@traffichive.com">contact@traffichive.com</a>
-            <p>Delhi, India</p>
+            <p>Bengaluru, India</p>
           </div>
         </div>
       </div>
       
       <div className="footer-bottom">
-        <p>© 2024 Traffic Hive. All rights reserved.</p>
+        <p>© 2026 Traffic Hive. All rights reserved.</p>
       </div>
     </footer>
   );
